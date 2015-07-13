@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: gf_rock
+username: q5725827
 baseurl: /blog
 markdown: redcarpet
 safe: false
